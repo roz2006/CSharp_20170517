@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module 1 lab Statisk metode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleArv", "ModuleArv\ModuleArv.csproj", "{4A2D0B1E-9734-4FEB-BCDA-2B1CCCF125D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nedarvning", "Nedarvning\Nedarvning.csproj", "{B80FFD27-FBDF-423C-936E-CCD03E60263E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonPolymorfi", "PersonPolymorfi\PersonPolymorfi.csproj", "{EB87BA9A-2E03-44A4-8D26-436A251CBDD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4A2D0B1E-9734-4FEB-BCDA-2B1CCCF125D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A2D0B1E-9734-4FEB-BCDA-2B1CCCF125D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A2D0B1E-9734-4FEB-BCDA-2B1CCCF125D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80FFD27-FBDF-423C-936E-CCD03E60263E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80FFD27-FBDF-423C-936E-CCD03E60263E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80FFD27-FBDF-423C-936E-CCD03E60263E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80FFD27-FBDF-423C-936E-CCD03E60263E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB87BA9A-2E03-44A4-8D26-436A251CBDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB87BA9A-2E03-44A4-8D26-436A251CBDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB87BA9A-2E03-44A4-8D26-436A251CBDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB87BA9A-2E03-44A4-8D26-436A251CBDD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
