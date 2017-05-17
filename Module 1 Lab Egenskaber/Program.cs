@@ -23,6 +23,7 @@ namespace Module_1_Lab_Egenskaber
 
     class Trekant
     {
+        private const double moms= 0.25;
         public int Grundlinje { get; private set; }
         public int Højde { get; private set; }
 
