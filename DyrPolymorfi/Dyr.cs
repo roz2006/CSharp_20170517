@@ -19,9 +19,9 @@ namespace DyrPolymorfi
         {
             string filename = @"C:\temp\dyrenavne.txt";
             string[] navne = System.IO.File.ReadAllLines(filename);
-           // Random rnd = new Random();  
             int number = rnd.Next(0, navne.Length);
-            
+           // Console.WriteLine(number.ToString());
+
             if (number%2 == 0)
                 return new Hund() { Navn = navne[number]};
             else
